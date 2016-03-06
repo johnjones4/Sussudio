@@ -20,4 +20,4 @@ cd Sussudio
 ./install.sh
 ```
 
-(c) Philip Collins Limited
+The song _Sussudio_ is property of Philip Collins Limited.
