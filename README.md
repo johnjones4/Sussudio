@@ -8,7 +8,7 @@ An alias for sudo that also prints a line from the Phil Collins song _Sussudio_.
 
 The easiest way to install this is to simply run the following. (The script requests admin privileges to save the command to `/usr/local/bin/sussudio`)
 
-`# curl https://raw.githubusercontent.com/johnjones4/Sussudio/master/install.sh | bash`
+`curl https://raw.githubusercontent.com/johnjones4/Sussudio/master/install.sh | bash`
 
 ### Option 2
 
